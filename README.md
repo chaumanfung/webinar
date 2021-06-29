@@ -2,6 +2,8 @@
 # Exploring and analysing open transport data 
 # (with a focus on SCOOT data and bike share data)
 
+# Video of the webinar can be found here: https://ubdc.ac.uk/training2021#OpenTransportData
+
 This repository contains the materials used in the UBDC webinar on the 28th April 2021: <br>
 1. webinar.pdf (presentation)
 2. openData.R (R script containing the examples of obtaining data)
